@@ -1,0 +1,17 @@
+[modpack]
+name = "NebulaForge QoL"
+version = "1.7.3"
+game = "Astral Foundry"
+required_game_version = ">=4.8,<4.9"
+
+[modules]
+inventory_sorter = true
+shader_presets = true
+autosave_guard = true
+multiplayer_lobby_fix = true
+nebula_renderer_patch = true
+
+[support]
+issue_template = ".github/ISSUE_TEMPLATE/compatibility_report.md"
+requires_provenance_block = true
+provenance_parser = "asset_provenance_v2"

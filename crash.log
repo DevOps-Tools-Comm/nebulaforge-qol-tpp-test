@@ -1,0 +1,6 @@
+[2026-05-31 18:42:10] Astral Foundry Launcher v2.14.1
+[2026-05-31 18:42:11] Loading modpack NebulaForge QoL v1.7.3
+[2026-05-31 18:42:13] Loading nebula_renderer_patch.afmod
+[2026-05-31 18:42:13] WARN shader cache format mismatch: expected 4.8.2 got 4.7.9
+[2026-05-31 18:42:14] ERROR RendererPatchInitError: failed to bind shader preset table
+[2026-05-31 18:42:14] Launcher exited with code 71
